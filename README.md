@@ -1,6 +1,6 @@
 # Nike warehouse stock taking 
 
-## Brief introduction:
+### Brief introduction:
 The is a Python program for the Hyperion Dev Software engineer bootcamp, Task 32 Capstone project IV.
 
 ### Purpose:
