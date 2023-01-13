@@ -18,7 +18,7 @@ Function:
 As the function mentioned above, user can navigate to different function in the initialize menu by input the initial of each function. 
 
 | Initial	| Function |
------------------------
+----------- | ------------
 | VA	| View All product |
 | CS |	Capture Shoe |
 | SS |	Re-Stock |
