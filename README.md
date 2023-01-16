@@ -30,3 +30,7 @@ As the function mentioned above, user can navigate to different function in the 
 Simply install the code by clicking the green  Code  button, then download the repository as a ZIP file.
 For the external file, please name it as inventory.txt 
 
+### Credit:
+HyperionDev - providing the bootcamp of the software developmer oppotunitiy
+Logan - the best tutor!
+Darren - the best mentor!
