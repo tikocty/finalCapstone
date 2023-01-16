@@ -35,6 +35,6 @@ HyperionDev - providing the bootcamp of the software developmer oppotunitiy
 Logan - the best tutor!
 Darren - the best mentor!
 
-![alt text](https://github.com/tikocty/finalCapstone/blob/main/Screenshot 2023-01-16 at 5.35.05 PM.png?raw=true)
+![alt text](https://github.com/tikocty/finalCapstone/blob/main/Screenshot2023-01-16at5.35.05PM.png?raw=true)
 
 
