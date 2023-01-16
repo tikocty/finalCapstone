@@ -32,5 +32,7 @@ For the external file, please name it as inventory.txt
 
 ### Credit:
 HyperionDev - providing the bootcamp of the software developmer oppotunitiy
+
 Logan - the best tutor!
+
 Darren - the best mentor!
