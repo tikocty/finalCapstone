@@ -34,7 +34,3 @@ For the external file, please name it as inventory.txt
 HyperionDev - providing the bootcamp of the software developmer oppotunitiy
 Logan - the best tutor!
 Darren - the best mentor!
-
-![alt text](https://github.com/tikocty/finalCapstone/blob/main/Screenshot2023-01-16at5.35.05PM.png?raw=true)
-
-
